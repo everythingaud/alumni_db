@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/everythingaud/alumni_db#readme",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "styled-components": "^4.4.1"
     }
 }
